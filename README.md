@@ -1,5 +1,7 @@
 # Calendar Mirror
 
+<img src="CalendarMirror/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="128" alt="CalendarMirror icon">
+
 This is a simple macOS menu bar app that syncs two Calendar.app calendars.  It’s designed to mirror an Exchange calendar (like your work schedule) to a Google calendar (like your personal calendar) so you can see your availability across both accounts.  The sync is one way, so changes in the destination calendar do not appear in the source.  The destination calendar should be read-only to avoid confusion.
 
 
